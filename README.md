@@ -61,3 +61,5 @@ make V=s -j$(nproc)
 ```
 
 编译完成后输出路径：bin/targets
+
+默认LAN IP：192.168.5.1
