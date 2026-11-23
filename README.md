@@ -36,7 +36,9 @@ make V=s -j1
 
 如果使用的root用户进行编译：
 
-`make V=s -j1 FORCE_UNSAFE_CONFIGURE=1`
+```
+make V=s -j1 FORCE_UNSAFE_CONFIGURE=1
+```
 
 ### 二次编译：
 
